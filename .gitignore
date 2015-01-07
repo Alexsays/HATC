@@ -1,0 +1,16 @@
+
+*.pbxproj
+
+*.xcworkspacedata
+
+*.xccheckout
+
+*.xcuserstate
+
+*.xcbkptlist
+
+*.xcscheme
+
+ColorGet/ColorGet.xcodeproj/xcuserdata/Alex.xcuserdatad/xcschemes/xcschememanagement.plist
+
+ColorGet/ColorGet.xcodeproj/xcuserdata/imac-002.xcuserdatad/xcschemes/xcschememanagement.plist
